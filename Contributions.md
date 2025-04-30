@@ -47,10 +47,6 @@ Welcome to the Spotify Clone project! We appreciate your interest in contributin
 - Document any significant changes or new features in the README.md file.
 - Please include relevant comments in your code to help you understand.
 
-## Code of Conduct
-
-Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) when participating in this project. Treat everyone with respect and create a positive environment for collaboration.
-
 ## Feedback
 
 If you have any feedback, questions, or suggestions, feel free to open an issue in the repository. We welcome contributions from developers of all skill levels!
