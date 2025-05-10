@@ -53,7 +53,7 @@ The project structure is organized as follows:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/spotifyclone.git
+   git clone https://github.com/SujanVulasala/SpotifycloneWeb.git
    ```
 2. **Open in Browser**: Open the `index.html` file in your preferred web browser to launch the Spotify Clone.
 3. **Explore and Enjoy**: Navigate through the playlist, play your favorite songs, and experience the Spotify Clone!
