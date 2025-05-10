@@ -8,7 +8,7 @@ Welcome to the Spotify Clone project! This is a beginner-friendly web developmen
 
 The project structure is organized as follows:
 
-- **.DS_Store**: System file; can be ignored.
+- **DS_Store**: System file; can be ignored.
 - **README.md**: Project documentation file (you're reading it!).
 - **bg.jpg**: A background image for the application.
 - **cover2.jpg**: Cover image for the playlist.
