@@ -142,10 +142,6 @@ If the original repository has been updated, you can sync your fork to include t
      git push origin main
      ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Feedback
 
 If you have any feedback, questions, or suggestions, feel free to open an issue in the repository. We welcome contributions from developers of all skill levels!
